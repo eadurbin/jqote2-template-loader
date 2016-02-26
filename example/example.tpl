@@ -1,4 +1,4 @@
-<script type="text/html" id="articles_tpl">
+<script type="text/x-jqote-template" id="articles_tpl">
     <![CDATA[
         <% var article;
 
